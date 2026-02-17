@@ -1,0 +1,67 @@
+{
+  "setName": "Doraemon",
+  "setId": "doraemon",
+  "unlockAt": 1000,
+  "cards": [
+    {
+      "id": "doraemon_001",
+      "name": "Doraemon",
+      "image": "doraemon.jpg",
+      "attributes": {
+        "intelligence": 95,
+        "gadgets": 99,
+        "kindness": 98,
+        "courage": 85
+      },
+      "rarity": "legendary"
+    },
+    {
+      "id": "doraemon_002",
+      "name": "Nobita",
+      "image": "nobita.jpg",
+      "attributes": {
+        "intelligence": 60,
+        "gadgets": 50,
+        "kindness": 90,
+        "courage": 70
+      },
+      "rarity": "common"
+    },
+    {
+      "id": "doraemon_003",
+      "name": "Shizuka",
+      "image": "shizuka.jpg",
+      "attributes": {
+        "intelligence": 88,
+        "gadgets": 65,
+        "kindness": 95,
+        "courage": 80
+      },
+      "rarity": "epic"
+    },
+    {
+      "id": "doraemon_004",
+      "name": "Gian",
+      "image": "gian.jpg",
+      "attributes": {
+        "intelligence": 55,
+        "gadgets": 45,
+        "kindness": 60,
+        "courage": 92
+      },
+      "rarity": "rare"
+    },
+    {
+      "id": "doraemon_005",
+      "name": "Suneo",
+      "image": "suneo.jpg",
+      "attributes": {
+        "intelligence": 75,
+        "gadgets": 70,
+        "kindness": 50,
+        "courage": 65
+      },
+      "rarity": "rare"
+    }
+  ]
+}

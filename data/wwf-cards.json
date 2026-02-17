@@ -1,0 +1,67 @@
+{
+  "setName": "WWF Animals",
+  "setId": "wwf",
+  "unlockAt": 1500,
+  "cards": [
+    {
+      "id": "wwf_001",
+      "name": "Tiger",
+      "image": "tiger.jpg",
+      "attributes": {
+        "strength": 95,
+        "speed": 88,
+        "stealth": 90,
+        "endangered": 98
+      },
+      "rarity": "legendary"
+    },
+    {
+      "id": "wwf_002",
+      "name": "Elephant",
+      "image": "elephant.jpg",
+      "attributes": {
+        "strength": 99,
+        "speed": 60,
+        "stealth": 30,
+        "endangered": 92
+      },
+      "rarity": "legendary"
+    },
+    {
+      "id": "wwf_003",
+      "name": "Panda",
+      "image": "panda.jpg",
+      "attributes": {
+        "strength": 75,
+        "speed": 55,
+        "stealth": 70,
+        "endangered": 95
+      },
+      "rarity": "epic"
+    },
+    {
+      "id": "wwf_004",
+      "name": "Rhino",
+      "image": "rhino.jpg",
+      "attributes": {
+        "strength": 96,
+        "speed": 70,
+        "stealth": 40,
+        "endangered": 99
+      },
+      "rarity": "legendary"
+    },
+    {
+      "id": "wwf_005",
+      "name": "Polar Bear",
+      "image": "polar-bear.jpg",
+      "attributes": {
+        "strength": 93,
+        "speed": 75,
+        "stealth": 65,
+        "endangered": 90
+      },
+      "rarity": "epic"
+    }
+  ]
+}

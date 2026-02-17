@@ -1,0 +1,67 @@
+{
+  "setName": "Cricket",
+  "setId": "Cricket",
+  "unlockAt": 1000,
+  "cards": [
+    {
+      "id": "cricket_001",
+      "name": "kohli",
+      "image": "kohli.jpg",
+      "attributes": {
+        "intelligence": 95,
+        "gadgets": 99,
+        "kindness": 98,
+        "courage": 85
+      },
+      "rarity": "legendary"
+    },
+    {
+      "id": "cricket_002",
+      "name": "Rohit",
+      "image": "nobita.jpg",
+      "attributes": {
+        "intelligence": 60,
+        "gadgets": 50,
+        "kindness": 90,
+        "courage": 70
+      },
+      "rarity": "common"
+    },
+    {
+      "id": "cricket_003",
+      "name": "DaryllMitcher",
+      "image": "shizuka.jpg",
+      "attributes": {
+        "intelligence": 88,
+        "gadgets": 65,
+        "kindness": 95,
+        "courage": 80
+      },
+      "rarity": "epic"
+    },
+    {
+      "id": "cricket_004",
+      "name": "Govardhan",
+      "image": "gian.jpg",
+      "attributes": {
+        "intelligence": 55,
+        "gadgets": 45,
+        "kindness": 60,
+        "courage": 92
+      },
+      "rarity": "rare"
+    },
+    {
+      "id": "cricket_005",
+      "name": "Sai",
+      "image": "suneo.jpg",
+      "attributes": {
+        "intelligence": 75,
+        "gadgets": 70,
+        "kindness": 50,
+        "courage": 65
+      },
+      "rarity": "rare"
+    }
+  ]
+}
